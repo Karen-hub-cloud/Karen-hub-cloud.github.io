@@ -36,7 +36,7 @@ Redis
 
 [《嚎叫》聊聊上世界六十年代的嬉皮士运动](https://mp.weixin.qq.com/s/jgma81Ckvndu6sawt4S_JQ)
 
-[《你当像年鸟飞往你的山》原声家庭之罪](https://mp.weixin.qq.com/s/_C6eSI-BsDwTiKPkHJjzbw)
+[《你当像年鸟飞往你的山》原生家庭之罪](https://mp.weixin.qq.com/s/_C6eSI-BsDwTiKPkHJjzbw)
 
 [《地狱变》芥川龙之介](https://mp.weixin.qq.com/s/_8PXfFsIPOIPXQEjXipQGg)
 
