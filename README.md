@@ -6,7 +6,7 @@
 
 [SpringCloud Gateway源码笔记](https://karen-hub-cloud.github.io/SpringCloud-Gateway/)
 
-Spring源码笔记
+[Spring源码笔记](https://www.notion.so/Spring-381eaeaf59114bc38b34df7016fb4e49)
 
 Java 8 新特性
 
@@ -18,6 +18,14 @@ KafKa
 
 Redis
 
+[剑指offer](https://www.notion.so/offer-cc54c09f78174488bd01d9f61e044027)
+
+[响应式编程](https://www.notion.so/b6ed2bfbecfa48bc8cebf74ee127f42f)
+
+[优化](https://www.notion.so/96697922fe9c46fe998fe880677918f7)
+
+[bug记录](https://www.notion.so/bug-db94585dbd7b425a8ed008a4ef3ed37e)
+
 ## 书单
 
 ## 歌单
@@ -26,7 +34,7 @@ Redis
 
 ## 公众号
 
-搜“thinks make money”
+搜“thinks make money”    （思考致富）
 
 ### 往期列表：
 
@@ -36,7 +44,6 @@ Redis
 
 [《嚎叫》聊聊上世界六十年代的嬉皮士运动](https://mp.weixin.qq.com/s/jgma81Ckvndu6sawt4S_JQ)
 
-[《你当像年鸟飞往你的山》原生家庭之罪](https://mp.weixin.qq.com/s/_C6eSI-BsDwTiKPkHJjzbw)
+[《你当像年鸟飞往你的山》原声家庭之罪](https://mp.weixin.qq.com/s/_C6eSI-BsDwTiKPkHJjzbw)
 
 [《地狱变》芥川龙之介](https://mp.weixin.qq.com/s/_8PXfFsIPOIPXQEjXipQGg)
-
