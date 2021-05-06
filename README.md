@@ -26,7 +26,27 @@ Redis
 
 [bug记录](https://www.notion.so/bug-db94585dbd7b425a8ed008a4ef3ed37e)
 
-## 书单
+[并发相关](https://www.notion.so/a35bebc5cc8f4e009c634c36c9c5dd21)
+
+[深究java基础](https://www.notion.so/java-02afd71fb8ba4a72964ad12c545d5d96)
+
+[GRPC](https://www.notion.so/GRPC-98bc9710f8e448cca89c3599a92f1cd8)
+
+## 推荐书单
+
+《第二性》
+
+《万历十五年》
+
+《那不勒斯四部曲》
+
+《时代》三部曲
+
+《你当想鸟飞往你的山》
+
+《亲密关系》
+
+芥川龙之介短片小说集
 
 ## 歌单
 
